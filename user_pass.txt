@@ -7,3 +7,8 @@ Abcdefg123
 Daniel
 123456hD
 
+
+#for default 
+admin
+admin
+
